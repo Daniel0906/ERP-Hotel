@@ -1,0 +1,16 @@
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# Ambiente virtual (se criar um)
+venv/
+
+# Arquivos do sistema
+.DS_Store
+
+# Variáveis sensíveis (se usar)
+.env
